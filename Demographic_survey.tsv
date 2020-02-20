@@ -1,0 +1,6 @@
+"recordId"	"healthCode"	"age"	"diagnosis-year"	"education"	"employment"	"gender"	"maritalStatus"	"professional-diagnosis"
+"1"	"1"	"24"	"false"	"Some college"	"Employment for wages"	"Male"	"Single, never married"	"false"
+"2"	"2"	"40"	"false"	"4-year college degree"	"Employment for wages"	"Male"	"Single, never married"	"true"
+"3"	"3"	"38"	"1995"	"Some graduate school"	"Employment for wages"	"Female"	"Married or domestic partnership"	"true"
+"4"	"4"	"32"	"2009"	"2-year college degree"	"A student"	"Male"	"Single, never married"	"true"
+"5"	"5"	"48"	"1991"	"Master's Degree"	"Employment for wages"	"Male"	"Married or domestic partnership"	"true"
