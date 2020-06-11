@@ -1,5 +1,7 @@
 # PDDB: Parkinson's Disease Digital Biomarker
-This repository contains our winning algorithm of [2017 PDDB DREAM Challenge](https://www.businesswire.com/news/home/20180117006187/en), which utilizes gyroscope and acceletometer data from smartphones to predict Parkinson's disease.
+This repository contains our winning algorithm of 2017 PDDB DREAM Challenge, which utilizes gyroscope and acceletometer data from smartphones to predict Parkinson's disease.
+
+The paper is published in Patterns Zhang H, Deng K, Li H, Albin R, Guan Y. 2020. Deep Learning Identifies Digital Biomarkers for Self-Reported Parkinson’s Disease, Patterns (2020), https://doi.org/10.1016/j.patter.2020.100042
 
 Please contact gyuanfan@umich.edu or rayezh@umich.edu if you have any questions about this project. 
 ## Overall Description
