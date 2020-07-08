@@ -42,6 +42,7 @@ sh bash.sh
 
 As The mPower dataset is generally unbalanced in class, AUROC instead of AUPRC or accuracy will be more suitable in evaluating predictions. The predictions on test set is evaluated by AUROC by running:
 ```
+cd ./training_PDDB_model
 python evaluation.py
 ```
 This creates a `auc.txt` file based on preditions ensembled by Random Forest learner compared to the ground truth. 
